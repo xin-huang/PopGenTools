@@ -54,3 +54,6 @@ A collection for available tools in population genetics. For more tools, see [he
 - [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 - [msms](http://www.mabs.at/ewing/msms/index.shtml)
 - [SLiM](https://messerlab.org/slim/)
+
+## Visualization
+- [Haploview](https://www.broadinstitute.org/haploview/haploview)
