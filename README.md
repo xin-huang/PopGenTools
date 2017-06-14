@@ -36,7 +36,6 @@ A collection for available tools in population genetics. For more tools, see [he
 ## Population Admixture and Structure
 - [AdmixTools](https://github.com/DReichLab/AdmixTools)
 - [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/)
-- [distruct](https://web.stanford.edu/group/rosenberglab/distruct.html)
 - [EIGENSOFT](https://github.com/DReichLab/EIG)
 - [fastStructure](https://rajanil.github.io/fastStructure/)
 - [FlashPCA2](https://github.com/gabraham/flashpca)
@@ -56,4 +55,5 @@ A collection for available tools in population genetics. For more tools, see [he
 - [SLiM](https://messerlab.org/slim/)
 
 ## Visualization
+- [distruct](https://web.stanford.edu/group/rosenberglab/distruct.html)
 - [Haploview](https://www.broadinstitute.org/haploview/haploview)
