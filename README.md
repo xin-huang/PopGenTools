@@ -10,30 +10,38 @@ For more tools, see [here](https://omictools.com/population-genomics-category).
 - [TABIX](http://www.htslib.org/doc/tabix.html)
 - [GATK](https://software.broadinstitute.org/gatk/)
 - [GTOOL](http://www.well.ox.ac.uk/~cfreeman/software/gwas/gtool.html)
-- [PLINK 1.7](http://zzz.bwh.harvard.edu/plink/tutorial.shtml)
-- [PLINK 1.9](https://www.cog-genomics.org/plink2)
 - [htslib](https://github.com/samtools/htslib)
 - [htsjdk](https://github.com/samtools/htsjdk)
+- [Picard](https://broadinstitute.github.io/picard/)
+- [PLINK 1.7](http://zzz.bwh.harvard.edu/plink/tutorial.shtml)
+- [PLINK 1.9](https://www.cog-genomics.org/plink2)
 
 ## Genotype Phasing and Imputation
 - [BEAGLE 4.1](https://faculty.washington.edu/browning/beagle/beagle.html)
 - [IMPUTE](https://mathgen.stats.ox.ac.uk/impute/impute_v1.html)
 - [IMPUTE2](http://mathgen.stats.ox.ac.uk/impute/impute_v2.html)
+- [Minimac3](https://github.com/Santy-8128/Minimac3)
+- [STITCH](http://www.stats.ox.ac.uk/~myers/)
 - [SHAPEIT](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html)
 
 ## Natural Selection
 - [4P](https://github.com/anbena/4p)
 - [hapbin](https://github.com/evotools/hapbin)
+- [hapFLK](https://forge-dga.jouy.inra.fr/projects/hapflk)
 - [pcadapt](https://cran.r-project.org/web/packages/pcadapt/index.html)
 - [REHH](https://cran.r-project.org/web/packages/rehh/index.html)
 - [SCCT](https://github.com/wavefancy/scct)
 - [selscan](https://github.com/szpiech/selscan)
+- [XPCLR](https://reich.hms.harvard.edu/software)
 
 ## Population Admixture and Structure
 - [AdmixTools](https://github.com/DReichLab/AdmixTools)
 - [ADMIXTURE](https://www.genetics.ucla.edu/software/admixture/)
+- [distruct](https://web.stanford.edu/group/rosenberglab/distruct.html)
 - [EIGENSOFT](https://github.com/DReichLab/EIG)
 - [fastStructure](https://rajanil.github.io/fastStructure/)
+- [FlashPCA2](https://github.com/gabraham/flashpca)
+- [MixMapper](https://reich.hms.harvard.edu/software)
 - [STRUCTURE](http://web.stanford.edu/group/pritchardlab/structure.html)
 - [TreeMix](https://bitbucket.org/nygcresearch/treemix/wiki/Home)
 
