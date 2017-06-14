@@ -1,7 +1,5 @@
 # PopgenTools
-A collection for available tools in population genetics.
-
-For more tools, see [here](https://omictools.com/population-genomics-category).
+A collection for available tools in population genetics. For more tools, see [here](https://omictools.com/population-genomics-category).
 
 ## Data Manipulation
 - [BCFTOOLS](https://samtools.github.io/bcftools/bcftools.html)
@@ -15,6 +13,7 @@ For more tools, see [here](https://omictools.com/population-genomics-category).
 - [Picard](https://broadinstitute.github.io/picard/)
 - [PLINK 1.7](http://zzz.bwh.harvard.edu/plink/tutorial.shtml)
 - [PLINK 1.9](https://www.cog-genomics.org/plink2)
+- [scikit-allel](https://scikit-allel.readthedocs.io/en/latest/)
 
 ## Genotype Phasing and Imputation
 - [BEAGLE 4.1](https://faculty.washington.edu/browning/beagle/beagle.html)
@@ -51,7 +50,7 @@ For more tools, see [here](https://omictools.com/population-genomics-category).
 - [PSMC](https://github.com/lh3/psmc)
 - [SMC++](https://github.com/popgenmethods/smcpp)
 
-## Simulator
+## Simulation
 - [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 - [msms](http://www.mabs.at/ewing/msms/index.shtml)
 - [SLiM](https://messerlab.org/slim/)
