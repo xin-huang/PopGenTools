@@ -45,6 +45,7 @@ A collection for available tools in population genetics. For more tools, see [he
 
 ## Population Demography
 - [continuity](https://github.com/schraiber/continuity/)
+- [∂a∂i](https://github.com/paulirish/dadi)
 - [MSMC](https://github.com/stschiff/msmc)
 - [PSMC](https://github.com/lh3/psmc)
 - [SMC++](https://github.com/popgenmethods/smcpp)
