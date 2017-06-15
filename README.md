@@ -25,6 +25,7 @@ A collection for available tools in population genetics. For more tools, see [he
 
 ## Natural Selection
 - [4P](https://github.com/anbena/4p)
+- [GCTA-MLMA](http://cnsgenomics.com/software/gcta/mlmassoc.html)
 - [hapbin](https://github.com/evotools/hapbin)
 - [hapFLK](https://forge-dga.jouy.inra.fr/projects/hapflk)
 - [pcadapt](https://cran.r-project.org/web/packages/pcadapt/index.html)
