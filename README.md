@@ -31,6 +31,7 @@ A collection for available tools in population genetics. For more tools, see [he
 - [pcadapt](https://cran.r-project.org/web/packages/pcadapt/index.html)
 - [REHH](https://cran.r-project.org/web/packages/rehh/index.html)
 - [SCCT](https://github.com/wavefancy/scct)
+- [SeleDiff](https://github.com/xin-huang/SeleDiff)
 - [selscan](https://github.com/szpiech/selscan)
 - [XPCLR](https://reich.hms.harvard.edu/software)
 
@@ -41,6 +42,7 @@ A collection for available tools in population genetics. For more tools, see [he
 - [fastStructure](https://rajanil.github.io/fastStructure/)
 - [FlashPCA2](https://github.com/gabraham/flashpca)
 - [MixMapper](https://reich.hms.harvard.edu/software)
+- [SNPRelate](https://github.com/zhengxwen/SNPRelate)
 - [STRUCTURE](http://web.stanford.edu/group/pritchardlab/structure.html)
 - [TreeMix](https://bitbucket.org/nygcresearch/treemix/wiki/Home)
 
