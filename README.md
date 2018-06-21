@@ -54,8 +54,10 @@ A collection for available tools in population genetics. For more tools, see [he
 - [SMC++](https://github.com/popgenmethods/smcpp)
 
 ## Simulation
+- [cosi2](https://software.broadinstitute.org/mpg/cosi2/cosidoc.html)
 - [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 - [msms](http://www.mabs.at/ewing/msms/index.shtml)
+- [Nemo](http://nemo2.sourceforge.net/)
 - [SLiM](https://messerlab.org/slim/)
 
 ## Visualization
