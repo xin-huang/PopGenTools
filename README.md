@@ -16,12 +16,12 @@ A collection for available tools in population genetics. For more tools, see [he
 - [scikit-allel](https://scikit-allel.readthedocs.io/en/latest/)
 
 ## Genotype Phasing and Imputation
-- [BEAGLE 4.1](https://faculty.washington.edu/browning/beagle/beagle.html)
+- [BEAGLE](https://faculty.washington.edu/browning/beagle/beagle.html)
 - [IMPUTE](https://mathgen.stats.ox.ac.uk/impute/impute_v1.html)
 - [IMPUTE2](http://mathgen.stats.ox.ac.uk/impute/impute_v2.html)
 - [Minimac3](https://github.com/Santy-8128/Minimac3)
-- [STITCH](http://www.stats.ox.ac.uk/~myers/)
 - [SHAPEIT](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html)
+- [STITCH](http://www.stats.ox.ac.uk/~myers/)
 
 ## Natural Selection
 - [4P](https://github.com/anbena/4p)
@@ -53,6 +53,10 @@ A collection for available tools in population genetics. For more tools, see [he
 - [PSMC](https://github.com/lh3/psmc)
 - [SMC++](https://github.com/popgenmethods/smcpp)
 
+## Genome-wide Association Study
+- [GCTA](http://cnsgenomics.com/software/gcta/#Overview)
+- [SKAT](https://www.hsph.harvard.edu/skat/)
+
 ## Simulation
 - [cosi2](https://software.broadinstitute.org/mpg/cosi2/cosidoc.html)
 - [ms](http://home.uchicago.edu/rhudson1/source/mksamples.html)
@@ -63,3 +67,4 @@ A collection for available tools in population genetics. For more tools, see [he
 ## Visualization
 - [distruct](https://web.stanford.edu/group/rosenberglab/distruct.html)
 - [Haploview](https://www.broadinstitute.org/haploview/haploview)
+- [LocusZoom](http://locuszoom.sph.umich.edu/)
