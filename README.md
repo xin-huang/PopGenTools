@@ -47,8 +47,9 @@ A collection for available tools in population genetics. For more tools, see [he
 - [TreeMix](https://bitbucket.org/nygcresearch/treemix/wiki/Home)
 
 ## Population Demography
+- [ASMC](https://github.com/pierpal/ASMC)
 - [continuity](https://github.com/schraiber/continuity/)
-- [∂a∂i](https://github.com/paulirish/dadi)
+- [∂a∂i](https://bitbucket.org/gutenkunstlab/dadi/src)
 - [MSMC](https://github.com/stschiff/msmc)
 - [PSMC](https://github.com/lh3/psmc)
 - [SMC++](https://github.com/popgenmethods/smcpp)
