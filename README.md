@@ -48,8 +48,9 @@ A collection for available tools in population genetics. For more tools, see [he
 
 ## Population Demography
 - [ASMC](https://github.com/pierpal/ASMC)
-- [continuity](https://github.com/schraiber/continuity/)
-- [∂a∂i](https://bitbucket.org/gutenkunstlab/dadi/src)
+- [continuity](https://github.com/schraiber/continuity)
+- [∂a∂i](https://bitbucket.org/gutenkunstlab/dadi)
+- [moments](https://bitbucket.org/simongravel/moments)
 - [MSMC](https://github.com/stschiff/msmc)
 - [PSMC](https://github.com/lh3/psmc)
 - [SMC++](https://github.com/popgenmethods/smcpp)
