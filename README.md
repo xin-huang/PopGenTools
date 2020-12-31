@@ -1,4 +1,4 @@
-# PopgenTools
+# PopGenTools
 A collection for available tools in population genetics. For more tools, see [here](https://omictools.com/population-genomics-category).
 
 ## Data Manipulation
