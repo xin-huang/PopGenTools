@@ -49,15 +49,27 @@ A collection for available tools in population genetics. For more tools, see [he
 ## Population Demography
 - [ASMC](https://github.com/pierpal/ASMC)
 - [continuity](https://github.com/schraiber/continuity)
-- [∂a∂i](https://bitbucket.org/gutenkunstlab/dadi)
+- [dadi](https://bitbucket.org/gutenkunstlab/dadi)
 - [moments](https://bitbucket.org/simongravel/moments)
 - [MSMC](https://github.com/stschiff/msmc)
 - [PSMC](https://github.com/lh3/psmc)
 - [SMC++](https://github.com/popgenmethods/smcpp)
 
+## Distribution of fitness effects
+- [anavar](http://zeng-lab.group.shef.ac.uk/wordpress/)
+- [dadi](https://bitbucket.org/gutenkunstlab/dadi)
+- [DFE-alpha](http://www.homepages.ed.ac.uk/pkeightl/software.html)
+- [polyDFE](https://github.com/paula-tataru/polyDFE)
+- [prfreq](https://bustamantelab.stanford.edu/lab-developed-software)
+- [predicDiv](https://github.com/LohmuellerLab/predicDiv)
+
 ## Genome-wide Association Study
 - [GCTA](http://cnsgenomics.com/software/gcta/#Overview)
 - [SKAT](https://www.hsph.harvard.edu/skat/)
+
+## Genome annotation
+- [ANNOVAR](https://doc-openbio.readthedocs.io/projects/annovar/en/latest/)
+- [SnpEff](https://pcingola.github.io/SnpEff/)
 
 ## Simulation
 - [cosi2](https://software.broadinstitute.org/mpg/cosi2/cosidoc.html)
