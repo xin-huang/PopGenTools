@@ -77,6 +77,7 @@ A collection for available tools in population genetics. For more tools, see [he
 - [msms](http://www.mabs.at/ewing/msms/index.shtml)
 - [Nemo](http://nemo2.sourceforge.net/)
 - [SLiM](https://messerlab.org/slim/)
+- [fwdpy11](https://github.com/molpopgen/fwdpy11)
 
 ## Visualization
 - [distruct](https://web.stanford.edu/group/rosenberglab/distruct.html)
